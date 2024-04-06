@@ -2,6 +2,12 @@
 section {
   background-color: #ffffff;
 }
+.icon {
+  width: 260px; /* Adjust as needed */
+  height: 195px; /* Adjust as needed */
+  padding-left: 81px;
+ padding-bottom: 20px;
+}
 
 body {
   font-style: normal;
